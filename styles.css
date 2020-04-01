@@ -1,0 +1,116 @@
+/* Tag Selectors */
+
+body {
+    background-color: hsl(0, 0%, 98%);
+}
+
+h4 {
+    color: hsl(234, 12%, 34%);
+    font-family: "Poppins", sans-serif;
+}
+
+p {
+    color: hsl(229, 6%, 66%);
+    font-family: "Poppins", sans-serif;
+    font-size: 11px;
+}
+
+/* Class Selectors */
+
+.top-container {
+    display: inline-block;
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    line-height: 1em;
+    position: relative;
+    top: 50px;
+    left: 500px;
+
+}
+
+.reliable-line {
+    color: hsl(234, 12%, 34%);
+    font-family: "Poppins", sans-serif;
+    font-weight: lighter;
+}
+.powered-line {
+    color: hsl(234, 12%, 34%);
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+}
+
+.supervisor-container {
+    border: 1px solid grey;
+    border-radius: 7px;
+    border-top: 7px solid hsl(180, 62%, 55%);
+    box-shadow: 3px 3px 3px grey;
+    padding: 5px 20px;
+    position: relative;
+    left: 230px;
+    top: 200px;
+    width: 15em;
+}
+
+.supervisor-img {
+    position: relative;
+    left: 170px;
+}
+.team-builder-container {
+    border: 1px solid grey;
+    border-radius: 7px;
+    border-top: 7px solid hsl(0, 78%, 62%);
+    box-shadow: 3px 3px 3px grey;
+    padding: 5px 20px;
+    position: relative;
+    bottom: 150px;
+    left: 550px;
+    width: 15em;
+}
+
+.team-builder-img {
+    position: relative;
+    left: 170px;
+}
+
+.karma-container {
+    border: 1px solid grey;
+    border-radius: 7px;
+    border-top: 7px solid hsl(34, 97%, 64%);
+    box-shadow: 3px 3px 3px grey;
+    padding: 5px 20px;
+    position: relative;
+    left: 870px;
+    bottom: 193px;
+    width: 15em;
+}
+
+.karma-img {
+    position: relative;
+    left: 170px;
+}
+
+.calculator-container {
+    border: 1px solid grey;
+    border-radius: 7px;
+    border-top: 7px solid hsl(212, 86%, 64%);
+    box-shadow: 3px 3px 3px grey;
+    padding: 5px 20px;
+    position: relative;
+    left: 550px;
+    bottom: 300px;
+    width: 15em;
+
+}
+
+.calculator-img {
+    position: relative;
+    left: 170px;
+}
+
+.attribution {
+    position: relative;
+    margin: auto;
+    bottom: 1px;
+    text-align: center;
+}
